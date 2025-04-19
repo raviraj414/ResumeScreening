@@ -1,6 +1,6 @@
 Resume Screening with Machine Learning Job Recommendations - Raviraj Tekale
 
-blog post: https://medium.com/@611noorsaeed/building-resume-screening-app-resume-screening-with-machine-learning-job-recommendations-b1adc6b15cad
+
 
 Datasets: https://www.kaggle.com/datasets/noorsaeed/resume-datasets
 
