@@ -37,3 +37,6 @@ OUTPUTS OF THE SYSTEM
 
 ![image](https://github.com/user-attachments/assets/c14b39ab-792f-4c93-9f69-906d5cdca9cc)
 
+
+![image](https://github.com/user-attachments/assets/da6e98b6-177e-4cdd-bdc5-6b619d273e73)
+
