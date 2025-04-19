@@ -29,3 +29,11 @@ Time-saving: Automating the resume screening process reduces the time and effort
 Machine learning has revolutionized the way we approach resume screening, offering unparalleled efficiency, accuracy, and scalability. Our end-to-end project demonstrates the transformative potential of machine learning in the recruitment process, empowering organizations to make data-driven hiring decisions and unlock the full potential of their workforce.
 
 Join us on this journey to reimagine the future of recruitment with machine learning. Together, we can revolutionize the way we identify, evaluate, and engage top talent, driving innovation and growth in the ever-evolving job market.
+
+
+
+OUTPUTS OF THE SYSTEM
+
+
+![image](https://github.com/user-attachments/assets/c14b39ab-792f-4c93-9f69-906d5cdca9cc)
+
